@@ -1,11 +1,11 @@
 ## Ad Campaign Performance Analytics Dashboard
 
- Project Summary 
+##  Project Summary 
 
 This project demonstrates my ability to analyze real-world digital advertising data and translate it into clear business insights and strategic recommendations.
 Using simulated Facebook/Instagram Ads data, I evaluated campaign effectiveness, identified performance gaps, and built an interactive Power BI dashboard to support data-driven marketing decisions.
 
-Key focus areas:
+## Key focus areas:
 
 Campaign performance evaluation
 
@@ -15,7 +15,7 @@ Cost efficiency and ROI optimization
 
 Business-focused storytelling with data
 
-Business Problem
+## Business Problem
 
 Marketing teams often invest heavily in ad campaigns without clear visibility into:
 
@@ -27,16 +27,20 @@ Which audience segments perform best
 
 This dashboard answers these questions by converting raw ad data into actionable insights for decision-makers.
 
-🧠 What I Did (End-to-End)
-Phase	Description
-Data Cleaning	Fixed data type errors, handled missing values, standardized age and gender fields
-Data Modeling	Created clean dimension fields for age groups and gender using DAX
-KPI Creation	Built CTR, CPA, conversion metrics for performance tracking
-Analysis	Identified high-performing campaigns, ads, audiences, and interests
-Visualization	Designed a 3-page interactive Power BI dashboard
-Recommendations	Provided data-backed optimization strategies
 
-Tools & Skills Demonstrated
+## 🛠️ Project Phases
+
+| Phase | Description |
+|-------|------------|
+| Data Cleaning | Fixed data type errors, handled missing values, standardized age and gender fields |
+| Data Modeling | Created clean dimension fields for age groups and gender using DAX |
+| KPI Creation | Built CTR, CPA, conversion metrics for performance tracking |
+| Analysis | Identified high-performing campaigns, ads, audiences, and interests |
+| Visualization | Designed a 3-page interactive Power BI dashboard |
+| Recommendations | Provided data-backed optimization strategies |
+
+
+## Tools & Skills Demonstrated
 
 Power BI – Dashboard design, DAX, slicers, interactivity
 
@@ -48,26 +52,26 @@ Marketing Analytics – Campaign evaluation, audience segmentation
 
 Data Storytelling – Turning insights into business actions
 
-📁 Dataset Description
+## 📁 Dataset Description
 
-The dataset contains ad-level digital marketing performance data used to evaluate campaign effectiveness and audience engagement.
+| Column Name | Description |
+|------------|------------|
+| ad_id | Unique ad identifier |
+| campaign_id | Campaign identifier |
+| fb_campaign_id | Facebook campaign reference |
+| reporting_start | Campaign start date |
+| reporting_end | Campaign end date |
+| age | Audience age group |
+| gender | Audience gender |
+| interest1 | Primary interest category |
+| impressions | Number of times ads were shown |
+| clicks | Number of clicks |
+| spent | Total ad spend |
+| total_conversion | Total conversions |
+| approved_conversion | Approved conversions |
 
-Column Name	Description
-ad_id	Unique ad identifier
-campaign_id	Campaign identifier
-fb_campaign_id	Facebook campaign reference
-reporting_start	Campaign start date
-reporting_end	Campaign end date
-age	Audience age group
-gender	Audience gender
-interest1	Primary interest category
-impressions	Number of times ads were shown
-clicks	Number of clicks
-spent	Total ad spend
-total_conversion	Total conversions
-approved_conversion	Approved conversions
 
-Dashboard Structure
+## Dashboard Structure
 Page 1: Campaign Overview
 
 High-level KPIs (Spend, Impressions, Clicks, CTR, Conversions)
@@ -104,3 +108,16 @@ Optimization roadmap
 | Gender Spend vs Engagement | **87.51% of spend** was allocated to males, yet **99.05% of CTR** came from **“Unknown” gender**, highlighting **poor gender data quality** and tracking limitations. |
 | Ad-Level Efficiency | Several ads showed **high CPA (up to 232)** while delivering low conversions, indicating **inefficient budget utilization** at the ad level. |
 | Interest-Based Targeting | A small group of interests (**Interest 16, 29, and 10**) generated the majority of conversions, presenting strong opportunities for **focused audience scaling**. |
+
+## Strategic Impact & Recommendations
+
+Improve CTR through stronger creatives and A/B testing
+
+Reallocate budget toward high-performing campaigns and ads
+
+Focus targeting on high-conversion age groups (30–39)
+
+Scale top-performing interests and optimize audience segments
+
+Improve data quality for better demographic analysis
+
