@@ -92,13 +92,15 @@ Strategic, data-driven recommendations
 
 Optimization roadmap
 
-Key Findings
-Area	Finding
-Overall Campaign Performance	Total ad spend reached 20.11K, generating 79M impressions but only 13K clicks, resulting in a very low CTR of 0.02%, indicating weak engagement.
-Engagement Quality	Despite the high reach, user engagement remained poor, suggesting ineffective creatives or misaligned audience targeting.
-Click Trends Over Time	Clicks peaked around Aug 23 (~1.8K clicks), with noticeable drops on Aug 21 and Aug 27, indicating inconsistent performance and possible ad fatigue.
-Campaign Contribution	A small number of campaigns drove most conversions: Campaign 1178 (~378) and Campaign 936 (~183), while Campaign 916 (~24) significantly underperformed.
-Audience Age Performance	The 30–34 age group was the strongest segment, delivering 328 approved conversions, followed by 35–39 (129), making them the primary target audience.
-Gender Spend vs Engagement	87.51% of spend was allocated to males, yet 99.05% of CTR came from “Unknown” gender, highlighting poor gender data quality and tracking limitations.
-Ad-Level Efficiency	Several ads showed high CPA (up to 232) while delivering low conversions, indicating inefficient budget utilization at the ad level.
-Interest-Based Targeting	A small group of interests (Interest 16, 29, and 10) generated the majority of conversions, presenting strong opportunities for focused audience scaling.
+## Key Findings
+
+| Area | Finding |
+|------|---------|
+| Overall Campaign Performance | Total ad spend reached **20.11K**, generating **79M impressions** but only **13K clicks**, resulting in a very low **CTR of 0.02%**, indicating weak engagement. |
+| Engagement Quality | Despite high reach, engagement remained poor, suggesting **ineffective creatives** or **misaligned audience targeting**. |
+| Click Trends Over Time | Clicks peaked around **Aug 23 (~1.8K clicks)**, with noticeable drops on **Aug 21** and **Aug 27**, indicating **inconsistent performance** and possible **ad fatigue**. |
+| Campaign Contribution | A small number of campaigns drove most conversions: **Campaign 1178 (~378)** and **Campaign 936 (~183)**, while **Campaign 916 (~24)** significantly underperformed. |
+| Audience Age Performance | The **30–34 age group** was the strongest segment, delivering **328 approved conversions**, followed by **35–39 (129)**, making them the **primary target audience**. |
+| Gender Spend vs Engagement | **87.51% of spend** was allocated to males, yet **99.05% of CTR** came from **“Unknown” gender**, highlighting **poor gender data quality** and tracking limitations. |
+| Ad-Level Efficiency | Several ads showed **high CPA (up to 232)** while delivering low conversions, indicating **inefficient budget utilization** at the ad level. |
+| Interest-Based Targeting | A small group of interests (**Interest 16, 29, and 10**) generated the majority of conversions, presenting strong opportunities for **focused audience scaling**. |
