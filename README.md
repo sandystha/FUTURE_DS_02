@@ -75,7 +75,7 @@ Data Storytelling – Turning insights into business actions
 
 ## Page 1: Campaign Overview
 
-![Campaign Overview](Screenshot/Campaign.png)
+![Campaign Overview](Screenshot/Campaing.png)
 
 High-level KPIs (Spend, Impressions, Clicks, CTR, Conversions)
 
@@ -85,7 +85,7 @@ Demographic overview
 
 ## Page 2: Ad Performance Analysis
 
-![Ad Performance](Screenshot/Ad_performance.png)
+![Ad Performance](Screenshot/Ad_performace.png)
 
 Ad-level CTR, CPA, and conversions
 
@@ -94,6 +94,7 @@ Campaign-wise and interest-based breakdown
 Identification of top and underperforming ads
 
 ## Page 3: Insights & Recommendations
+
 ![Insights & Recommendations](Screenshot/Insights.png)
 
 Key analytical findings
@@ -126,5 +127,6 @@ Focus targeting on high-conversion age groups (30–39)
 Scale top-performing interests and optimize audience segments
 
 Improve data quality for better demographic analysis
+
 
 
