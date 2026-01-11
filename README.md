@@ -1,4 +1,4 @@
-Ad Campaign Performance Analytics Dashboard
+## Ad Campaign Performance Analytics Dashboard
 
  Project Summary 
 
@@ -50,7 +50,7 @@ Data Storytelling – Turning insights into business actions
 
 📁 Dataset Description
 
-The dataset contains ad-level performance data with the following key columns:
+The dataset contains ad-level digital marketing performance data used to evaluate campaign effectiveness and audience engagement.
 
 Column Name	Description
 ad_id	Unique ad identifier
@@ -150,4 +150,5 @@ High-CPA Ads	Multiple ads above 150 CPA
 
 Insight:
 Several ads are inefficient and consume significant budget without delivering proportional conversion value.
+
 
